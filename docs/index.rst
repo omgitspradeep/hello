@@ -24,5 +24,4 @@ Links
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
-* Source code : https://github.com/omgitspradeep/happycouples/tree/master
 * Contact : binary.science98@gmail.com
