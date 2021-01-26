@@ -24,5 +24,4 @@ Links
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
-* source: @Bethani
 * Contact : binary.science98@gmail.com
