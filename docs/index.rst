@@ -24,5 +24,4 @@ Links
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
-* Source code: not avl
 * Contact : binary.science98@gmail.com
